@@ -7,6 +7,10 @@
     background-size: 100% 100%; 
     background-position: 50%;
 }
+::-webkit-scrollbar {
+
+    width: 0;
+  }
 .bg-globe{
     background-image: url(./assets/Webp/card-globe.webp);
 }

@@ -3,15 +3,15 @@
 @tailwind components;
 @tailwind utilities;
 .bg-hero{
-    background-image: url(./assets/Webp/hero.png);
+    background-image: url(./assets/Webp/hero.webp);
     background-size: 100% 100%; 
     background-position: 50%;
 }
 .bg-globe{
-    background-image: url(./assets/Webp/card-globe.png);
+    background-image: url(./assets/Webp/card-globe.webp);
 }
 .bg-polygon{
-    background-image: url(./assets/Webp/Polygon.png);
+    background-image: url(./assets/Webp/Polygon.webp);
     background-size: 100% 100%;
 }
 @font-face {
@@ -28,7 +28,7 @@
     background-position: center;
 }
 .bg-footer{
-    background-image: url(./assets/Webp/footer.png);
+    background-image: url(./assets/Webp/footer.webp);
 }
 body{
     background: #000;

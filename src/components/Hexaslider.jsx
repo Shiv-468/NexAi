@@ -2,9 +2,9 @@ import React from 'react'
 import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
 import Slider from "react-slick";
-import PolySvg from '../assets/Webp/polygon-Svg.png'
-import Ellipse3 from '../assets/Webp/Ellipse3.png'
-import Ring2 from '../assets/Webp/Ring2.png'
+import PolySvg from '../assets/Webp/polygon-Svg.webp'
+import Ellipse3 from '../assets/Webp/Ellipse3.webp'
+import Ring2 from '../assets/Webp/Ring2.webp'
 const Hexaslider = () => {
     var settings = {
         dots: false,

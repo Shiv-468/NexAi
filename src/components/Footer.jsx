@@ -1,7 +1,7 @@
 import React from 'react'
 import { Facebook, Mail, Twitter } from '../common/Icon'
-import Ellipse6 from '../assets/Webp/Ellipse6.png'
-import Ellipse7 from '../assets/Webp/Ellipse7.png'
+import Ellipse6 from '../assets/Webp/Ellipse6.webp'
+import Ellipse7 from '../assets/Webp/Ellipse7.webp'
 const Footer = () => {
   return (
     <section className='bg-footer bg-[#040404] bg-no-repeat bg-center relative'>

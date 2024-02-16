@@ -1,9 +1,9 @@
 import React from 'react'
-import Ai_hand from '../assets/Webp/Ai-hand.png'
-import Ellipse4 from '../assets/Webp/Ellipse4.png'
-import Ellipse5 from '../assets/Webp/Ellipse5.png'
-import Ring3 from '../assets/Webp/Ring3.png'
-import Ring4 from '../assets/Webp/Ring4.png'
+import Ai_hand from '../assets/Webp/Ai-hand.webp'
+import Ellipse4 from '../assets/Webp/Ellipse4.webp'
+import Ellipse5 from '../assets/Webp/Ellipse5.webp'
+import Ring3 from '../assets/Webp/Ring3.webp'
+import Ring4 from '../assets/Webp/Ring4.webp'
 const Tocken = () => {
     return (
         <section className='bg-[#040404] relative'>

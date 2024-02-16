@@ -1,6 +1,6 @@
 import React from 'react'
-import Artboard from '../assets/Webp/Artboard.png'
-import Ellipse1 from '../assets/Webp/Ellipse1.png'
+import Artboard from '../assets/Webp/Artboard.webp'
+import Ellipse1 from '../assets/Webp/Ellipse1.webp'
 const Section1 = () => {
   return (
     <section className='bg-[#040404] relative'>

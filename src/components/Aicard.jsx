@@ -1,7 +1,7 @@
 import React from 'react'
-import Aicrdimg from '../assets/Webp/AIRound.png'
-import AicardEllipse1 from '../assets/Webp/AicardEllipse1.png'
-import AicardEllipse2 from '../assets/Webp/AicardEllipse2.png'
+import Aicrdimg from '../assets/Webp/AIRound.webp'
+import AicardEllipse1 from '../assets/Webp/AicardEllipse1.webp'
+import AicardEllipse2 from '../assets/Webp/AicardEllipse2.webp'
 const Aicard = () => {
   return (
 <section className='bg-[#040404]'>

@@ -1,7 +1,7 @@
 import React from 'react'
-import Ellipse2 from '../assets/Webp/Ellipse2.png'
-import Ring1 from '../assets/Webp/Ring1.png'
-import RingE from '../assets/Webp/RingE.png'
+import Ellipse2 from '../assets/Webp/Ellipse2.webp'
+import Ring1 from '../assets/Webp/Ring1.webp'
+import RingE from '../assets/Webp/RingE.webp'
 import { Intell, Message, TimePlus, TimeTool, } from '../common/Icon'
 const Section2 = () => {
   return (

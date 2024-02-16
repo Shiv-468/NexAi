@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Logo from '../assets/Webp/logo.png'
+import Logo from '../assets/Webp/logo.webp'
 const Header = () => {
   const [data , setdata]=useState(false);
  function view (){setdata(!data)

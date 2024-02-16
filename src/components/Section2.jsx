@@ -10,7 +10,7 @@ const Section2 = () => {
   <img src={Ellipse2} alt="Ellipse2" className=' absolute left-0 bottom-[-37%] z-[2] max-md:hidden' />
   <img src={RingE} alt="RingE" className=' absolute right-0 bottom-[-37%] z-[2] max-md:hidden ' />
     <div className="container max-w-[1340px] mx-auto px-3 md:pt-[120px]">
-        <div className="border border-[#FCFCFC] rounded-[32px] h-[810px] z-10  overflow-y-scroll bg-globe px-[40px] md:px-[100px] bg-[#FFFFFF0A] bg-opacity-[4%]">
+        <div className="border border-[#FCFCFC] rounded-[32px] h-[810px] z-10 scrollbar-hide  overflow-y-scroll bg-globe px-[40px] md:px-[100px] bg-[#FFFFFF0A] bg-opacity-[4%]">
           <div className=" flex flex-col items-center">
             <h2 className='text-[#FCFCFC] text-center font-Recharge font-bold text-[40px] leading-[50.4px] pt-[80px] '>Unique features</h2>
             <p className=' text-white text-[16px] leading-[25.6px] font-Poppins opacity-[70%] max-w-[397px] text-center pt-4 pb-[80px] '>ability to engage in natural, fluent conversations in over 15 languages,</p>

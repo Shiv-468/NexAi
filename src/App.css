@@ -6,6 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+::-webkit-scrollbar {
+  scrollbar-width: 0;
+  display: none;
+  width: 0;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -40,8 +45,4 @@
   .overflow_hidden{
     overflow: hidden;
   }
-}
-::-webkit-scrollbar {
-  scrollbar-width: 0;
-  display: none;
 }

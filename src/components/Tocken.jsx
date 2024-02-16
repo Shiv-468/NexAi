@@ -17,8 +17,8 @@ const Tocken = () => {
                     <div className="w-full md:w-[50%] px-3 z-10">
                         <img src={Ai_hand} alt="Ai_hand" />
                     </div>
-                    <div className="w-full md:w-[50%] px-3  overflow-hidden max-md:pt-10 z-10 scrollbar-hide">
-                        <div className="max-h-[512px] overflow-y-scroll px-3">
+                    <div className="w-full md:w-[50%] px-3  overflow-hidden max-md:pt-10 z-10 ">
+                        <div className="max-h-[512px] overflow-y-scroll scrollbar-hide px-3">
                         <ol className="relative border-l-[8px]  border-[#02CDCF]  ">
                             <li className="pb-[60px] pl-[60px]">
                                 <div className="absolute w-[24px] h-[24px]  rounded-full  top-[6%]  -start-4 bg-white"></div>
